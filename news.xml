@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Wiadomości Stormbolt</title>
+        <description>Nowości z serwera</description>
+        
+        <item>
+            <title>Wielkie Otwarcie Serwera!</title>
+            <pubDate>Sun, 21 Dec 2025 18:30:00 GMT</pubDate>
+            <description>
+                Serwer Stormbolt oficjalnie wystartował! 
+                Życzymy miłej gry i niskiego pingu.
+                Pamiętajcie o zgłaszaniu błędów na Discordzie.
+            </description>
+            <author>Admin</author>
+        </item>
+
+        <item>
+            <title>Aktualizacja Modów</title>
+            <pubDate>Sat, 20 Dec 2025 15:00:00 GMT</pubDate>
+            <description>
+                Dodaliśmy nowe mody optymalizacyjne (Sodium, Lithium).
+                Prosimy o zrestartowanie launchera, aby pobrać pliki.
+            </description>
+            <author>Technik</author>
+        </item>
+
+    </channel>
+</rss>
