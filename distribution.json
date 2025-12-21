@@ -5,13 +5,13 @@
         "smallImageText": "Storm Launcher",
         "smallImageKey": "storm_icon"
     },
-    "rss": "https://stormbolt.pl/news.xml",
+    "rss": "https://raw.githubusercontent.com/xNiecny/dzialki/main/news.xml",
     "servers": [
         {
             "id": "storm-fabric-1.21.1",
             "name": "Storm Pokemony",
             "description": "Serwer Pokemonów - Fabric 1.21.1",
-            "icon": null,
+            "icon": "https://i.imgur.com/Ebl3ry3.png",
             "version": "1.0.0",
             "address": "pokemony.stormbolt.pl:25568",
             "minecraftVersion": "1.21.1",
@@ -47,4 +47,5 @@
             ]
         }
     ]
+
 }
