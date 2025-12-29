@@ -56,7 +56,7 @@
                 {
                     "id": "storm-required-mods",
                     "name": "Wymagane Mody",
-                    "type": "ForgeMod",
+                    "type": "File",
                     "required": {
                         "value": true
                     },
