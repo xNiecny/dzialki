@@ -1,29 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Wiadomości Stormbolt</title>
-        <description>Nowości z serwera</description>
+        <title>Storm Launcher - Nowości</title>
+        <description>Najnowsze wiadomości i aktualizacje dla Storm Launcher</description>
+        <link>https://github.com/xNiecny/dzialki</link>
+        <language>pl-PL</language>
+        <lastBuildDate>Sun, 29 Dec 2025 13:00:00 +0100</lastBuildDate>
         
+        <!-- Przykładowy artykuł 1 -->
         <item>
-            <title>Wielkie Otwarcie Serwera!</title>
-            <pubDate>Sun, 21 Dec 2025 18:30:00 GMT</pubDate>
+            <title>Witamy w Storm Launcher!</title>
             <description>
-                Serwer Stormbolt oficjalnie wystartował! 
-                Życzymy miłej gry i niskiego pingu.
-                Pamiętajcie o zgłaszaniu błędów na Discordzie.
+                <![CDATA[
+                    <h2>Witamy na serwerze Storm Pokemony!</h2>
+                    <p>Dziękujemy za wybranie Storm Launcher. Oto co oferujemy:</p>
+                    <ul>
+                        <li><strong>Cobblemon</strong> - pełna implementacja Pokemonów w Minecraft</li>
+                        <li><strong>59 zoptymalizowanych modów</strong> - najlepsza wydajność</li>
+                        <li><strong>Fabric 1.21.1</strong> - najnowsza stabilna wersja</li>
+                    </ul>
+                    <p>Życzymy wspaniałej zabawy!</p>
+                ]]>
             </description>
-            <author>Admin</author>
+            <author>Storm Team</author>
+            <pubDate>Sun, 29 Dec 2025 13:00:00 +0100</pubDate>
+            <link>https://github.com/xNiecny/dzialki</link>
+            <comments>0</comments>
         </item>
-
+        
+        <!-- Przykładowy artykuł 2 -->
         <item>
-            <title>Aktualizacja Modów</title>
-            <pubDate>Sat, 20 Dec 2025 15:00:00 GMT</pubDate>
+            <title>Nowe mody dostępne!</title>
             <description>
-                Dodaliśmy nowe mody optymalizacyjne (Sodium, Lithium).
-                Prosimy o zrestartowanie launchera, aby pobrać pliki.
+                <![CDATA[
+                    <h2>Aktualizacja pakietu modów</h2>
+                    <p>Dodaliśmy nowe mody do pakietu:</p>
+                    <ul>
+                        <li>Sophisticated Backpacks - zaawansowane plecaki</li>
+                        <li>Xaero's Minimap - minimap i mapa świata</li>
+                        <li>Iris Shaders - wsparcie dla shaderów</li>
+                    </ul>
+                    <p>Wszystkie mody zostaną automatycznie pobrane przy następnym uruchomieniu!</p>
+                ]]>
             </description>
-            <author>Technik</author>
+            <author>Storm Team</author>
+            <pubDate>Sat, 28 Dec 2025 12:00:00 +0100</pubDate>
+            <link>https://github.com/xNiecny/dzialki</link>
+            <comments>0</comments>
         </item>
-
+        
+        <!-- Przykładowy artykuł 3 -->
+        <item>
+            <title>Porady dla nowych graczy</title>
+            <description>
+                <![CDATA[
+                    <h2>Jak rozpocząć przygodę?</h2>
+                    <p>Kilka porad dla początkujących:</p>
+                    <ol>
+                        <li><strong>Złap swojego pierwszego Pokemona</strong> - użyj Pokeball na dzikiego Pokemona</li>
+                        <li><strong>Walcz z innymi graczami</strong> - sprawdź swoje umiejętności!</li>
+                        <li><strong>Eksploruj świat</strong> - znajdź rzadkie Pokemony w różnych biomach</li>
+                    </ol>
+                    <p>Dołącz do naszego Discorda po więcej porad!</p>
+                ]]>
+            </description>
+            <author>Storm Team</author>
+            <pubDate>Fri, 27 Dec 2025 10:00:00 +0100</pubDate>
+            <link>https://github.com/xNiecny/dzialki</link>
+            <comments>0</comments>
+        </item>
     </channel>
 </rss>
