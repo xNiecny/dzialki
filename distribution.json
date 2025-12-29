@@ -68,7 +68,8 @@
                             "artifact": {
                                 "size": 17210,
                                 "MD5": "ed354c9241a646e346c0544e0ed936e3",
-                                "url": "http://193.23.209.50/mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar"
+                                "url": "http://193.23.209.50/mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar",
+                                "path": "AchievementOptimizer-fabric-1.21.1-2.1.0.jar"
                             },
                             "required": {
                                 "value": true
