@@ -68,8 +68,7 @@
                             "artifact": {
                                 "size": 17210,
                                 "MD5": "ed354c9241a646e346c0544e0ed936e3",
-                                "url": "http://193.23.209.50/mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar",
-                                "path": "mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar"
+                                "url": "http://193.23.209.50/mods/AchievementOptimizer-fabric-1.21.1-2.1.0.jar"
                             },
                             "required": {
                                 "value": true
@@ -82,8 +81,7 @@
                             "artifact": {
                                 "size": 283566,
                                 "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
-                                "url": "http://193.23.209.50/mods/BadOptimizations-2.4.1-1.21.1.jar",
-                                "path": "mods/BadOptimizations-2.4.1-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/BadOptimizations-2.4.1-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -96,8 +94,7 @@
                             "artifact": {
                                 "size": 130797814,
                                 "MD5": "e59f92473437da937e85a892a5875d3d",
-                                "url": "http://193.23.209.50/mods/Cobblemon-fabric-1.7.1+1.21.1.jar",
-                                "path": "mods/Cobblemon-fabric-1.7.1+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/Cobblemon-fabric-1.7.1+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -110,8 +107,7 @@
                             "artifact": {
                                 "size": 292202,
                                 "MD5": "604cf2f99be0b208a3354783f5b56fa2",
-                                "url": "http://193.23.209.50/mods/Debugify-1.21.1+1.0.jar",
-                                "path": "mods/Debugify-1.21.1+1.0.jar"
+                                "url": "http://193.23.209.50/mods/Debugify-1.21.1+1.0.jar"
                             },
                             "required": {
                                 "value": true
@@ -124,8 +120,7 @@
                             "artifact": {
                                 "size": 52795,
                                 "MD5": "08e42933d03d5869cade472a179aabf8",
-                                "url": "http://193.23.209.50/mods/DetailArmorBar-2.6.3+1.21.1-fabric.jar",
-                                "path": "mods/DetailArmorBar-2.6.3+1.21.1-fabric.jar"
+                                "url": "http://193.23.209.50/mods/DetailArmorBar-2.6.3+1.21.1-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -138,8 +133,7 @@
                             "artifact": {
                                 "size": 633065,
                                 "MD5": "eba1a7f9d9976e983a2b9eb5e915e087",
-                                "url": "http://193.23.209.50/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-                                "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+                                "url": "http://193.23.209.50/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -152,8 +146,7 @@
                             "artifact": {
                                 "size": 105906,
                                 "MD5": "e75b24932e2e5022d23a093077249a1a",
-                                "url": "http://193.23.209.50/mods/HMI 4.3 - 1.21.jar",
-                                "path": "mods/HMI 4.3 - 1.21.jar"
+                                "url": "http://193.23.209.50/mods/HMI 4.3 - 1.21.jar"
                             },
                             "required": {
                                 "value": true
@@ -166,8 +159,7 @@
                             "artifact": {
                                 "size": 341961,
                                 "MD5": "e8428f9600d55f610e4c680b2464ab65",
-                                "url": "http://193.23.209.50/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
-                                "path": "mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -180,8 +172,7 @@
                             "artifact": {
                                 "size": 75984,
                                 "MD5": "1d39ead1641ef522bc7ae92383f21da8",
-                                "url": "http://193.23.209.50/mods/MouseTweaks-fabric-mc1.21-2.26.jar",
-                                "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
+                                "url": "http://193.23.209.50/mods/MouseTweaks-fabric-mc1.21-2.26.jar"
                             },
                             "required": {
                                 "value": true
@@ -194,8 +185,7 @@
                             "artifact": {
                                 "size": 1745107,
                                 "MD5": "73c845d833c030f1b38363b5d4252ff7",
-                                "url": "http://193.23.209.50/mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-                                "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
+                                "url": "http://193.23.209.50/mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
                             },
                             "required": {
                                 "value": true
@@ -208,8 +198,7 @@
                             "artifact": {
                                 "size": 1111360,
                                 "MD5": "3a535eb839566c8e494a2efe5d5517dc",
-                                "url": "http://193.23.209.50/mods/amendments-1.21-2.0.11-fabric.jar",
-                                "path": "mods/amendments-1.21-2.0.11-fabric.jar"
+                                "url": "http://193.23.209.50/mods/amendments-1.21-2.0.11-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -222,8 +211,7 @@
                             "artifact": {
                                 "size": 3582879,
                                 "MD5": "d3307d918acec3bdb2d3d00f57d128eb",
-                                "url": "http://193.23.209.50/mods/animated-logo-2.0.jar",
-                                "path": "mods/animated-logo-2.0.jar"
+                                "url": "http://193.23.209.50/mods/animated-logo-2.0.jar"
                             },
                             "required": {
                                 "value": true
@@ -236,8 +224,7 @@
                             "artifact": {
                                 "size": 600915,
                                 "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
-                                "url": "http://193.23.209.50/mods/architectury-13.0.8-fabric.jar",
-                                "path": "mods/architectury-13.0.8-fabric.jar"
+                                "url": "http://193.23.209.50/mods/architectury-13.0.8-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -250,8 +237,7 @@
                             "artifact": {
                                 "size": 987006,
                                 "MD5": "97cd667dc338249b9f64d444730001a7",
-                                "url": "http://193.23.209.50/mods/chunkactivitytracker-fabric-1.0.1-1.21.1.jar",
-                                "path": "mods/chunkactivitytracker-fabric-1.0.1-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/chunkactivitytracker-fabric-1.0.1-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -264,8 +250,7 @@
                             "artifact": {
                                 "size": 1157166,
                                 "MD5": "a2c091b027ad6ba8e54b07020fd45884",
-                                "url": "http://193.23.209.50/mods/cloth-config-15.0.140-fabric.jar",
-                                "path": "mods/cloth-config-15.0.140-fabric.jar"
+                                "url": "http://193.23.209.50/mods/cloth-config-15.0.140-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -278,8 +263,7 @@
                             "artifact": {
                                 "size": 2956258,
                                 "MD5": "10985dc4266677b6c603fe91e635bb30",
-                                "url": "http://193.23.209.50/mods/coroutil-fabric-1.21.1-1.3.8.jar",
-                                "path": "mods/coroutil-fabric-1.21.1-1.3.8.jar"
+                                "url": "http://193.23.209.50/mods/coroutil-fabric-1.21.1-1.3.8.jar"
                             },
                             "required": {
                                 "value": true
@@ -292,8 +276,7 @@
                             "artifact": {
                                 "size": 572632,
                                 "MD5": "48a9d7f230bc4e6dcb3700e379a4c6ad",
-                                "url": "http://193.23.209.50/mods/cosmetica-1.21.1-1.2.9.jar",
-                                "path": "mods/cosmetica-1.21.1-1.2.9.jar"
+                                "url": "http://193.23.209.50/mods/cosmetica-1.21.1-1.2.9.jar"
                             },
                             "required": {
                                 "value": true
@@ -306,8 +289,7 @@
                             "artifact": {
                                 "size": 691857,
                                 "MD5": "61e0161dc6c0758f904dfbdd6a1c518c",
-                                "url": "http://193.23.209.50/mods/does_it_tick-fabric-1.1.4-1.21.1.jar",
-                                "path": "mods/does_it_tick-fabric-1.1.4-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/does_it_tick-fabric-1.1.4-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -320,8 +302,7 @@
                             "artifact": {
                                 "size": 191151,
                                 "MD5": "c2ef97d432f7a9291c7ebd47f704cc60",
-                                "url": "http://193.23.209.50/mods/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar",
-                                "path": "mods/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar"
+                                "url": "http://193.23.209.50/mods/dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -334,8 +315,7 @@
                             "artifact": {
                                 "size": 1060520,
                                 "MD5": "316cf908b94d508f9f3490bafef39cfc",
-                                "url": "http://193.23.209.50/mods/eating-animation-1.21+1.9.72.jar",
-                                "path": "mods/eating-animation-1.21+1.9.72.jar"
+                                "url": "http://193.23.209.50/mods/eating-animation-1.21+1.9.72.jar"
                             },
                             "required": {
                                 "value": true
@@ -348,8 +328,7 @@
                             "artifact": {
                                 "size": 475401,
                                 "MD5": "b0b5d45f4b8e3a4c9b14f2e4e657f4dc",
-                                "url": "http://193.23.209.50/mods/entity_model_features_1.21-fabric-3.0.7.jar",
-                                "path": "mods/entity_model_features_1.21-fabric-3.0.7.jar"
+                                "url": "http://193.23.209.50/mods/entity_model_features_1.21-fabric-3.0.7.jar"
                             },
                             "required": {
                                 "value": true
@@ -362,8 +341,7 @@
                             "artifact": {
                                 "size": 754004,
                                 "MD5": "cd75ec9679ae393c9bccf63eb703ec46",
-                                "url": "http://193.23.209.50/mods/entity_texture_features_1.21-fabric-7.0.6.jar",
-                                "path": "mods/entity_texture_features_1.21-fabric-7.0.6.jar"
+                                "url": "http://193.23.209.50/mods/entity_texture_features_1.21-fabric-7.0.6.jar"
                             },
                             "required": {
                                 "value": true
@@ -376,8 +354,7 @@
                             "artifact": {
                                 "size": 1559420,
                                 "MD5": "d3837df627f0ca89b809beb1cb99dbc8",
-                                "url": "http://193.23.209.50/mods/entityculling-fabric-1.9.4-mc1.21.1.jar",
-                                "path": "mods/entityculling-fabric-1.9.4-mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/entityculling-fabric-1.9.4-mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -390,8 +367,7 @@
                             "artifact": {
                                 "size": 2424884,
                                 "MD5": "6d844b1f5a6f67395912e81043ae3aed",
-                                "url": "http://193.23.209.50/mods/fabric-api-0.116.7+1.21.1.jar",
-                                "path": "mods/fabric-api-0.116.7+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/fabric-api-0.116.7+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -404,8 +380,7 @@
                             "artifact": {
                                 "size": 20697,
                                 "MD5": "1223ed0fa413ed16f7d373e540789d37",
-                                "url": "http://193.23.209.50/mods/fasterrandom-5.1.0.jar",
-                                "path": "mods/fasterrandom-5.1.0.jar"
+                                "url": "http://193.23.209.50/mods/fasterrandom-5.1.0.jar"
                             },
                             "required": {
                                 "value": true
@@ -418,8 +393,7 @@
                             "artifact": {
                                 "size": 120709,
                                 "MD5": "6d381efd51de1cbbdb8070d346f32555",
-                                "url": "http://193.23.209.50/mods/ferritecore-7.0.2-hotfix-fabric.jar",
-                                "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar"
+                                "url": "http://193.23.209.50/mods/ferritecore-7.0.2-hotfix-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -432,8 +406,7 @@
                             "artifact": {
                                 "size": 652999,
                                 "MD5": "ffc6f43330ed0481a5c110e874310c7f",
-                                "url": "http://193.23.209.50/mods/geckolib-fabric-1.21.1-4.8.2.jar",
-                                "path": "mods/geckolib-fabric-1.21.1-4.8.2.jar"
+                                "url": "http://193.23.209.50/mods/geckolib-fabric-1.21.1-4.8.2.jar"
                             },
                             "required": {
                                 "value": true
@@ -446,8 +419,7 @@
                             "artifact": {
                                 "size": 915260,
                                 "MD5": "957803444c7be1ae953ac4c1023fe66f",
-                                "url": "http://193.23.209.50/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar",
-                                "path": "mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -460,8 +432,7 @@
                             "artifact": {
                                 "size": 1946502,
                                 "MD5": "01b27fdd7b9a0abd0dce2fc6d549fcd8",
-                                "url": "http://193.23.209.50/mods/immersivemessages-fabric-1.0.18-1.21.1.jar",
-                                "path": "mods/immersivemessages-fabric-1.0.18-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/immersivemessages-fabric-1.0.18-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -474,8 +445,7 @@
                             "artifact": {
                                 "size": 2690177,
                                 "MD5": "1179fe09b9ba970e84ed59259adfe65a",
-                                "url": "http://193.23.209.50/mods/iris-fabric-1.8.8+mc1.21.1.jar",
-                                "path": "mods/iris-fabric-1.8.8+mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/iris-fabric-1.8.8+mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -488,8 +458,7 @@
                             "artifact": {
                                 "size": 161045,
                                 "MD5": "9ba3d734dac0e59deb4721f2f23c65ad",
-                                "url": "http://193.23.209.50/mods/krypton-0.2.8.jar",
-                                "path": "mods/krypton-0.2.8.jar"
+                                "url": "http://193.23.209.50/mods/krypton-0.2.8.jar"
                             },
                             "required": {
                                 "value": true
@@ -502,8 +471,7 @@
                             "artifact": {
                                 "size": 74984,
                                 "MD5": "5eb3dfbde5828b4d305af18b92e1aa9c",
-                                "url": "http://193.23.209.50/mods/language-reload-1.7.5+1.21.1.jar",
-                                "path": "mods/language-reload-1.7.5+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/language-reload-1.7.5+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -516,8 +484,7 @@
                             "artifact": {
                                 "size": 772848,
                                 "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8",
-                                "url": "http://193.23.209.50/mods/lithium-fabric-0.15.1+mc1.21.1.jar",
-                                "path": "mods/lithium-fabric-0.15.1+mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/lithium-fabric-0.15.1+mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -530,8 +497,7 @@
                             "artifact": {
                                 "size": 57958,
                                 "MD5": "9d95db5bccfe50b8871ecc67c530e76b",
-                                "url": "http://193.23.209.50/mods/midnightlib-fabric-1.9.2+1.21.1.jar",
-                                "path": "mods/midnightlib-fabric-1.9.2+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/midnightlib-fabric-1.9.2+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -544,8 +510,7 @@
                             "artifact": {
                                 "size": 471258,
                                 "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b",
-                                "url": "http://193.23.209.50/mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
-                                "path": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/modernfix-fabric-5.25.1+mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -558,8 +523,7 @@
                             "artifact": {
                                 "size": 973066,
                                 "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0",
-                                "url": "http://193.23.209.50/mods/modmenu-11.0.3.jar",
-                                "path": "mods/modmenu-11.0.3.jar"
+                                "url": "http://193.23.209.50/mods/modmenu-11.0.3.jar"
                             },
                             "required": {
                                 "value": true
@@ -572,8 +536,7 @@
                             "artifact": {
                                 "size": 1488555,
                                 "MD5": "d578844c45c3950275eb3589b9bab564",
-                                "url": "http://193.23.209.50/mods/moonlight-1.21-2.28.3-fabric.jar",
-                                "path": "mods/moonlight-1.21-2.28.3-fabric.jar"
+                                "url": "http://193.23.209.50/mods/moonlight-1.21-2.28.3-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -586,8 +549,7 @@
                             "artifact": {
                                 "size": 1923320,
                                 "MD5": "799f4762ad935814414010e5124c9859",
-                                "url": "http://193.23.209.50/mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar",
-                                "path": "mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/notenoughanimations-fabric-1.11.1-mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -600,8 +562,7 @@
                             "artifact": {
                                 "size": 46623,
                                 "MD5": "8f22fb065079340a72ae5ce0da12efcb",
-                                "url": "http://193.23.209.50/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-                                "path": "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+                                "url": "http://193.23.209.50/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
                             },
                             "required": {
                                 "value": true
@@ -614,8 +575,7 @@
                             "artifact": {
                                 "size": 232325,
                                 "MD5": "4de8568a088a276c94168514d625413d",
-                                "url": "http://193.23.209.50/mods/placeholder-api-2.4.2+1.21.jar",
-                                "path": "mods/placeholder-api-2.4.2+1.21.jar"
+                                "url": "http://193.23.209.50/mods/placeholder-api-2.4.2+1.21.jar"
                             },
                             "required": {
                                 "value": true
@@ -628,8 +588,7 @@
                             "artifact": {
                                 "size": 204558,
                                 "MD5": "6efe48112aa8f6caa5680a3b69761d98",
-                                "url": "http://193.23.209.50/mods/player-animation-lib-fabric-2.0.1+1.21.1.jar",
-                                "path": "mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/player-animation-lib-fabric-2.0.1+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -642,8 +601,7 @@
                             "artifact": {
                                 "size": 81067,
                                 "MD5": "85f69ebd3bde2559ee53c01daa8e361e",
-                                "url": "http://193.23.209.50/mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
-                                "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+                                "url": "http://193.23.209.50/mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
                             },
                             "required": {
                                 "value": true
@@ -656,8 +614,7 @@
                             "artifact": {
                                 "size": 905717,
                                 "MD5": "476b32c1f734cfda39a8a7768ff00496",
-                                "url": "http://193.23.209.50/mods/servercore-fabric-1.5.10+1.21.1.jar",
-                                "path": "mods/servercore-fabric-1.5.10+1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/servercore-fabric-1.5.10+1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -670,8 +627,7 @@
                             "artifact": {
                                 "size": 430417,
                                 "MD5": "f2b7a71591c7a87f7d3d427fc63a6118",
-                                "url": "http://193.23.209.50/mods/smoothmenu-1.1.0.jar",
-                                "path": "mods/smoothmenu-1.1.0.jar"
+                                "url": "http://193.23.209.50/mods/smoothmenu-1.1.0.jar"
                             },
                             "required": {
                                 "value": true
@@ -684,8 +640,7 @@
                             "artifact": {
                                 "size": 76919,
                                 "MD5": "4c3464cd2a09683097f03d2a59fbbba8",
-                                "url": "http://193.23.209.50/mods/smoothscroll-2.2.1-1.21.1.jar",
-                                "path": "mods/smoothscroll-2.2.1-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/smoothscroll-2.2.1-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -698,8 +653,7 @@
                             "artifact": {
                                 "size": 373661,
                                 "MD5": "a2aa3212fe6397f39984b8c9e840956a",
-                                "url": "http://193.23.209.50/mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar",
-                                "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -712,8 +666,7 @@
                             "artifact": {
                                 "size": 1297761,
                                 "MD5": "aa37ba0048a1af6b554b137088cad484",
-                                "url": "http://193.23.209.50/mods/sodium-fabric-0.6.13+mc1.21.1.jar",
-                                "path": "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/sodium-fabric-0.6.13+mc1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -726,8 +679,7 @@
                             "artifact": {
                                 "size": 988478,
                                 "MD5": "ae7046dd3850f1ad3a9bd7e954b1cb8a",
-                                "url": "http://193.23.209.50/mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
-                                "path": "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
+                                "url": "http://193.23.209.50/mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
                             },
                             "required": {
                                 "value": true
@@ -740,8 +692,7 @@
                             "artifact": {
                                 "size": 2996065,
                                 "MD5": "0fcc53d829b59aea00440c6bed12c11d",
-                                "url": "http://193.23.209.50/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
-                                "path": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+                                "url": "http://193.23.209.50/mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
                             },
                             "required": {
                                 "value": true
@@ -754,8 +705,7 @@
                             "artifact": {
                                 "size": 1670672,
                                 "MD5": "fdbe84367afca32bfcd6e467e275d006",
-                                "url": "http://193.23.209.50/mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
-                                "path": "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
+                                "url": "http://193.23.209.50/mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
                             },
                             "required": {
                                 "value": true
@@ -768,8 +718,7 @@
                             "artifact": {
                                 "size": 13151995,
                                 "MD5": "d48ca78f8457f6e402e44830cea00fbd",
-                                "url": "http://193.23.209.50/mods/supplementaries-1.21-3.5.11-fabric.jar",
-                                "path": "mods/supplementaries-1.21-3.5.11-fabric.jar"
+                                "url": "http://193.23.209.50/mods/supplementaries-1.21-3.5.11-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -782,8 +731,7 @@
                             "artifact": {
                                 "size": 772211,
                                 "MD5": "7a984b118151ceb8a311469cd246f9e5",
-                                "url": "http://193.23.209.50/mods/suppsquared-1.21-1.2.15-fabric.jar",
-                                "path": "mods/suppsquared-1.21-1.2.15-fabric.jar"
+                                "url": "http://193.23.209.50/mods/suppsquared-1.21-1.2.15-fabric.jar"
                             },
                             "required": {
                                 "value": true
@@ -796,8 +744,7 @@
                             "artifact": {
                                 "size": 198920,
                                 "MD5": "28229f56801a794b9c2bdb8acc19cd11",
-                                "url": "http://193.23.209.50/mods/tidal-0.0.2-beta.jar",
-                                "path": "mods/tidal-0.0.2-beta.jar"
+                                "url": "http://193.23.209.50/mods/tidal-0.0.2-beta.jar"
                             },
                             "required": {
                                 "value": true
@@ -810,8 +757,7 @@
                             "artifact": {
                                 "size": 12432,
                                 "MD5": "492430f451d89f7fe2d7b8410c9748ac",
-                                "url": "http://193.23.209.50/mods/tooltipfix-1.1.1-1.20.jar",
-                                "path": "mods/tooltipfix-1.1.1-1.20.jar"
+                                "url": "http://193.23.209.50/mods/tooltipfix-1.1.1-1.20.jar"
                             },
                             "required": {
                                 "value": true
@@ -824,8 +770,7 @@
                             "artifact": {
                                 "size": 1303092,
                                 "MD5": "9b1450d894eb39026c191af8238b73a1",
-                                "url": "http://193.23.209.50/mods/txnilib-fabric-1.0.24-1.21.1.jar",
-                                "path": "mods/txnilib-fabric-1.0.24-1.21.1.jar"
+                                "url": "http://193.23.209.50/mods/txnilib-fabric-1.0.24-1.21.1.jar"
                             },
                             "required": {
                                 "value": true
@@ -838,8 +783,7 @@
                             "artifact": {
                                 "size": 839492,
                                 "MD5": "00d9b67556a85016edab41e05443a5a9",
-                                "url": "http://193.23.209.50/mods/watut-fabric-1.21.0-1.2.7.jar",
-                                "path": "mods/watut-fabric-1.21.0-1.2.7.jar"
+                                "url": "http://193.23.209.50/mods/watut-fabric-1.21.0-1.2.7.jar"
                             },
                             "required": {
                                 "value": true
@@ -852,8 +796,7 @@
                             "artifact": {
                                 "size": 1131541,
                                 "MD5": "82e0aa325a523da33b643dcbbd42d1e6",
-                                "url": "http://193.23.209.50/mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
-                                "path": "mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar"
+                                "url": "http://193.23.209.50/mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar"
                             },
                             "required": {
                                 "value": true
