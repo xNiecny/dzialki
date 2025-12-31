@@ -5,7 +5,7 @@
         "smallImageText": "Storm Launcher",
         "smallImageKey": "storm_icon"
     },
-    "rss": "http://localhost:8080/news.xml",
+    "rss": "https://raw.githubusercontent.com/xNiecny/dzialki/main/news.xml",
     "servers": [
         {
             "id": "storm-fabric-1.21.1",
