@@ -208,6 +208,20 @@
                     }
                 },
                 {
+                    "id": "mod-fancymenu_fabric_3.8.1_MC_1.21.1",
+                    "name": "fancymenu_fabric_3.8.1_MC_1.21.1",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4522643,
+                        "MD5": "8e396d8a4315d4d5db4fe742d8d4c0b2",
+                        "url": "http://193.23.209.50/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
+                        "path": "mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
                     "id": "mod-ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric",
                     "name": "ForgeConfigAPIPort v21.1.6 1.21.1 Fabric",
                     "type": "File",
@@ -925,6 +939,7 @@
         }
     ]
 }
+
 
 
 
