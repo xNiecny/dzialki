@@ -124,6 +124,20 @@
                     ]
                 },
                 {
+                    "id": "options",
+                    "name": "options",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6350,
+                        "MD5": "2ca13a1c1a0d28f2d9384c0d2fc824eb",
+                        "url": "http://193.23.209.50/mods/options.txt",
+                        "path": "options.txt"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
                     "id": "mod-AchievementOptimizer-fabric-1.21.1-2.1.0",
                     "name": "AchievementOptimizer fabric 1.21.1 2.1.0",
                     "type": "File",
@@ -911,6 +925,7 @@
         }
     ]
 }
+
 
 
 
