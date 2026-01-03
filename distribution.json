@@ -222,20 +222,6 @@
                     }
                 },
                 {
-                    "id": "mod-ImmediatelyFast-Fabric-1.6.9+1.21.1",
-                    "name": "ImmediatelyFast Fabric 1.6.9+1.21.1",
-                    "type": "File",
-                    "artifact": {
-                        "size": 341961,
-                        "MD5": "e8428f9600d55f610e4c680b2464ab65",
-                        "url": "http://193.23.209.50/mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar",
-                        "path": "mods/ImmediatelyFast-Fabric-1.6.9+1.21.1.jar"
-                    },
-                    "required": {
-                        "value": true
-                    }
-                },
-                {
                     "id": "mod-MouseTweaks-fabric-mc1.21-2.26",
                     "name": "MouseTweaks fabric mc1.21 2.26",
                     "type": "File",
@@ -925,6 +911,7 @@
         }
     ]
 }
+
 
 
 
