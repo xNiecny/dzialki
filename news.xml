@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Wiadomości StormBolt</title>
 		<description>Nowości z serwera Storm Pokemony</description>
@@ -8,44 +8,31 @@
 
 		<item>
 			<title>Jak zacząć przygodę z Pokemonami?</title>
+			<dc:creator>Admin</dc:creator> <media:content url="https://i.imgur.com/Ebl3ry3.png" type="image/png" medium="image"/>
 			<description>
 				<![CDATA[
-				<h3>Witaj Trenerze!</h3>
-				<p>Dopiero zaczynasz? Oto kilka kluczowych skrótów, które musisz znać na serwerze Storm:</p>
+				<p>Kliknij, aby przeczytać poradnik startowy!</p>
 				<ul>
-					<li><b>[R]</b> - Wypuść swojego Pokemona z PokeBalla.</li>
-					<li><b>[M]</b> - Otwórz mapę świata, aby znaleźć drogę.</li>
-					<li><b>[PPM]</b> - Kliknij na Pokemona, aby wejść w interakcję.</li>
+					<li>Klawiszologia [R], [M]</li>
+					<li>Jak łapać Pokemony</li>
 				</ul>
-				<p>Pamiętaj, aby zbierać <b>Apricorny</b> z drzew - posłużą Ci do tworzenia pierwszych PokeBalli!</p>
+				]]>
+			</description>
+			<link>https://dc.stormbolt.pl</link>
+			<pubDate>Wed, 31 Dec 2025 13:00:00 GMT</pubDate>
+		</item>
+
+		<item>
+			<title>Dołącz na Discorda!</title>
+			<dc:creator>Zespół Storm</dc:creator>
+			<media:content url="https://i.imgur.com/Ebl3ry3.png" type="image/png" medium="image"/>
+			<description>
+				<![CDATA[
+				<p>Najnowsze informacje i handel na naszym Discordzie.</p>
 				]]>
 			</description>
 			<link>https://dc.stormbolt.pl</link>
 			<pubDate>Wed, 31 Dec 2025 12:00:00 GMT</pubDate>
-		</item>
-
-		<item>
-			<title>Dołącz do społeczności StormBolt!</title>
-			<description>
-				<![CDATA[
-				<p>Szukasz ekipy do wspólnej gry lub wymiany Pokemonami?</p>
-				<p>Wbijaj na naszego Discorda, gdzie znajdziesz kanały handlowe, pomoc techniczną i ogłoszenia o eventach.</p>
-				]]>
-			</description>
-			<link>https://dc.stormbolt.pl</link>
-			<pubDate>Wed, 31 Dec 2025 11:00:00 GMT</pubDate>
-		</item>
-
-		<item>
-			<title>Wsparcie serwera</title>
-			<description>
-				<![CDATA[
-				<p>Chcesz szybciej rozwinąć swoją drużynę? Odwiedź nasz sklep!</p>
-				<p>Znajdziesz tam rzadkie cukierki, legendarne itemy i rangi premium.</p>
-				]]>
-			</description>
-			<link>https://sklep.stormbolt.pl</link>
-			<pubDate>Wed, 31 Dec 2025 10:00:00 GMT</pubDate>
 		</item>
 
 	</channel>
