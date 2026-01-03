@@ -36,7 +36,7 @@
                     "name": "Minecraft 1.21.1",
                     "type": "MinecraftVersion",
                     "artifact": {
-                        "url": "http://193.23.209.50/1.21.1.json",
+                        "url": "http://193.23.209.50/mods/1.21.1.json",
                         "path": "versions/1.21.1/1.21.1.json"
                     }
                 },
@@ -925,3 +925,4 @@
         }
     ]
 }
+
