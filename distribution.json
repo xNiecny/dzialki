@@ -36,7 +36,7 @@
                     "name": "Minecraft 1.21.1",
                     "type": "MinecraftVersion",
                     "artifact": {
-                        "url": "https://piston-meta.mojang.com/v1/packages/177e49d3233cb6eac42f0495c0a48e719870c2ae/1.21.1.json",
+                        "url": "https://piston-meta.mojang.com/v1/packages/598535928a3038379a40540d9d02082250285a21/1.21.1.json",
                         "path": "versions/1.21.1/1.21.1.json"
                     }
                 },
@@ -862,3 +862,4 @@
         }
     ]
 }
+
