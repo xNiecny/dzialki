@@ -558,6 +558,20 @@
                     }
                 },
                 {
+                    "id": "mod-konkrete_fabric_1.9.9_MC_1.21",
+                    "name": "konkrete_fabric_1.9.9_MC_1.21",
+                    "type": "File",
+                    "artifact": {
+                        "size": 786695,
+                        "MD5": "287ee9cfc6015f706672fd8c20f5ef9c",
+                        "url": "http://193.23.209.50/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+                        "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
                     "id": "mod-krypton-0.2.8",
                     "name": "krypton 0.2.8",
                     "type": "File",
@@ -594,6 +608,20 @@
                         "MD5": "80e7fc6c2cbeb0e097f8a25880ccd0a8",
                         "url": "http://193.23.209.50/mods/lithium-fabric-0.15.1+mc1.21.1.jar",
                         "path": "mods/lithium-fabric-0.15.1+mc1.21.1.jar"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
+                    "id": "mod-melody_fabric_1.0.10_MC_1.21",
+                    "name": "melody_fabric_1.0.10_MC_1.21",
+                    "type": "File",
+                    "artifact": {
+                        "size": 188035,
+                        "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856",
+                        "url": "http://193.23.209.50/mods/melody_fabric_1.0.10_MC_1.21.jar",
+                        "path": "mods/melody_fabric_1.0.10_MC_1.21.jar"
                     },
                     "required": {
                         "value": true
@@ -939,6 +967,7 @@
         }
     ]
 }
+
 
 
 
