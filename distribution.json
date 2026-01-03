@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "discord": {
-        "clientId": "1234567890123456789",
+        "clientId": "1456982363618934788",
         "smallImageText": "Storm Launcher",
         "smallImageKey": "storm_icon"
     },
@@ -925,5 +925,6 @@
         }
     ]
 }
+
 
 
