@@ -21,7 +21,7 @@
                 "largeImageKey": "storm_large"
             },
             "mainServer": true,
-            "autoconnect": true,
+            "autoconnect": false,
             "javaOptions": {
                 "supported": ">=21",
                 "suggestedMajor": 21,
@@ -981,6 +981,7 @@
         }
     ]
 }
+
 
 
 
