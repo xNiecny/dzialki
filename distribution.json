@@ -278,14 +278,14 @@
                     }
                 },
                 {
-                    "id": "mod-Xaeros_Minimap_25.2.10_Fabric_1.21",
-                    "name": "Xaeros_Minimap_25.2.10_Fabric_1.21",
+                    "id": "mod-xaerominimap-fabric-1.21.1-25.3.5",
+                    "name": "xaerominimap-fabric-1.21.1-25.3.5",
                     "type": "File",
                     "artifact": {
-                        "size": 1745107,
-                        "MD5": "73c845d833c030f1b38363b5d4252ff7",
-                        "url": "http://193.23.209.50/mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-                        "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
+                        "size": 2159839,
+                        "MD5": "fb6b4241c0573185502ad9f840c4c1a7",
+                        "url": "http://193.23.209.50/mods/xaerominimap-fabric-1.21.1-25.3.5.jar",
+                        "path": "mods/xaerominimap-fabric-1.21.1-25.3.5.jar"
                     },
                     "required": {
                         "value": true
@@ -981,6 +981,7 @@
         }
     ]
 }
+
 
 
 
