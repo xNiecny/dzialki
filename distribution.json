@@ -144,8 +144,36 @@
                     "artifact": {
                         "size": 41605,
                         "MD5": "3e8c853fabb177ca62211b44fc7687e7",
-                        "url": "http://193.23.209.50/mods/title_screen_layout.txt",
+                        "url": "http://193.23.209.50/mods/ui/title_screen_layout.txt",
                         "path": "config/fancymenu/customization/title_screen_layout.txt"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
+                    "id": "optionsui",
+                    "name": "optionsui",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2129,
+                        "MD5": "1a512d7875ba3c66df8d76d75b2c48a8",
+                        "url": "http://193.23.209.50/mods/ui/options.txt",
+                        "path": "config/fancymenu/options.txt"
+                    },
+                    "required": {
+                        "value": true
+                    }
+                },
+                {
+                    "id": "user_variables",
+                    "name": "user_variables",
+                    "type": "File",
+                    "artifact": {
+                        "size": 23,
+                        "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+                        "url": "http://193.23.209.50/mods/ui/user_variables.db",
+                        "path": "config/fancymenu/user_variables.db"
                     },
                     "required": {
                         "value": true
@@ -981,6 +1009,7 @@
         }
     ]
 }
+
 
 
 
