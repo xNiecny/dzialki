@@ -41,21 +41,21 @@
                     }
                 },
                 {
-                    "id": "net.fabricmc:fabric-loader:0.17.2",
+                    "id": "net.fabricmc:fabric-loader:0.18.4",
                     "name": "Fabric Loader",
                     "type": "Fabric",
                     "artifact": {
-                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar",
-                        "path": "net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar",
+                        "path": "net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
                     },
                     "subModules": [
                         {
-                            "id": "1.21.1-fabric-0.17.2",
+                            "id": "1.21.1-fabric-0.18.4",
                             "name": "Fabric (version.json)",
                             "type": "VersionManifest",
                             "artifact": {
-                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.17.2/profile/json",
-                                "path": "versions/1.21.1-fabric-0.17.2/1.21.1-fabric-0.17.2.json"
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.4/profile/json",
+                                "path": "versions/1.21.1-fabric-0.18.4/1.21.1-fabric-0.18.4.json"
                             }
                         },
                         {
@@ -1009,6 +1009,7 @@
         }
     ]
 }
+
 
 
 
